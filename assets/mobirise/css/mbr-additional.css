@@ -1014,6 +1014,7 @@ section.lazy-placeholder:after {
   .cid-qTkzRZLJNu .navbar-toggleable-sm {
     flex-direction: column;
     -webkit-flex-direction: column;
+        display: none;
   }
   .cid-qTkzRZLJNu .navbar-collapse {
     display: none !important;
